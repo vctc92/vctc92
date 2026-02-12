@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Full Stack Developer • Technical Architect • AI Enthusiast • Content Creator</h3>
+<h3 align="center">Frontend Architect | Scalable React & Next.js Systems | Performance, Security & AI-Driven UI | Design Systems & Engineering Leadership</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vctc92" target="_blank">
