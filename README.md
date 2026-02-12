@@ -39,15 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vctc92&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctc92&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 📧 [victorrajkumar1@gmail.com](mailto:victorrajkumar1@gmail.com)  
